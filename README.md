@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadybhai" alt="shadybhai" /></a> </p>
 
-- 🔭 I’m currently working on [Medical Central](https://github.com/ShadYBhai/Medical-Central)
-
 - 🌱 I’m currently learning **Physics**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ashish-nikumbh-01714416b/](https://www.linkedin.com/in/ashish-nikumbh-01714416b/)
