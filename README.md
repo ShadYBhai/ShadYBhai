@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ashish-nikumbh-01714416b/](https://www.linkedin.com/in/ashish-nikumbh-01714416b/)
 
-- 💬 Ask me about **Full Stack & Universe**
-
 - 📫 How to reach me **ashishnick.private@gmail.com**
 
 - ⚡ Fun fact **I Teach Music**
