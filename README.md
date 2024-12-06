@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Physics**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ashishnick/)](https://www.linkedin.com/in/ashishnick/]
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/ashishnick
 
 - 📫 How to reach me **ashishnick.private@gmail.com**
 
